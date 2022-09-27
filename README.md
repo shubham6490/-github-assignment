@@ -1,1 +1,1 @@
-# day-3-github-assihnment
+#github-assignment
